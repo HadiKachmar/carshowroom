@@ -1,0 +1,11 @@
+Model Information:
+* title:	Garage/Showroom Vr ready
+* source:	https://sketchfab.com/3d-models/garageshowroom-vr-ready-6a9653d1b1f84accb7e28a65b9c77fb9
+* author:	matteo.pascale (https://sketchfab.com/matteo.pascale)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Garage/Showroom Vr ready" (https://sketchfab.com/3d-models/garageshowroom-vr-ready-6a9653d1b1f84accb7e28a65b9c77fb9) by matteo.pascale (https://sketchfab.com/matteo.pascale) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
